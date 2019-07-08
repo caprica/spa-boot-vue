@@ -1,5 +1,5 @@
-# spa-boot-react
-A Basic Spring Boot web application configured for a ReactJS single page client application.
+# spa-boot-vue
+A Basic Spring Boot web application configured for a VueJS single page client application.
 
 Why is this so hard? Seriously?!
 
